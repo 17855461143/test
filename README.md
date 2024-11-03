@@ -3,8 +3,7 @@
 ![image](https://github.com/17855461143/test/blob/main/Figure1.png?raw=true)
 
 ## File Description
-* 1_Data aggregation
-  The directory contains our compiled dye data as well as the collected xanthene  and cyanine datasets.
+* 1_Data aggregation  The directory contains our compiled dye data as well as the collected xanthene  and cyanine datasets.
 * 2_MTATFP
   The main code for this project, including training data and code for three types of predictive models.
 * 3_GUI
